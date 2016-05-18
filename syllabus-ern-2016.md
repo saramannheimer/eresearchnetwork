@@ -28,11 +28,10 @@
 
 2. Exercise: Data Management Planning Exercise
   * Materials from Jenny Mullenberg and Mariah Lebow’s session at Science Bootcamp West:
-    * Simplified data management plan 
-    * Case Study: Vitamin D Bipolar 
-    * Case Study: Highland Birds
-    * Case Study: Engineering
-
+    * Simplified data management plan https://docs.google.com/document/d/1TQWM-tx88HbWRc0pv9MsV0HIFOeH3Lwe4aVg1LJui9k/edit
+    * Case Study: Vitamin D Bipolar https://docs.google.com/document/d/148n6DxfZU5ap4hBsnx7EScn50Tr0Kd70TF0hJ50-Ujs/edit 
+    * Case Study: Highland Birds https://docs.google.com/document/d/14jDdafNBu2mrac21X9Ha5w9z7J0IKVwPYVfuIwfRRCY/edit
+    * Case Study: Engineering https://docs.google.com/document/d/1ZQSj1uI375B8_GXfs400vVwDEtUz74qLx9bcikLs0LM/edit
 3. Documents:
   * DMPTool - https://dmptool.org/
 
